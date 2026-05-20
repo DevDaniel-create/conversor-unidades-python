@@ -7,3 +7,8 @@ recebendo_dados_usuarios.py
 pep8.py
 teste.py
 dir_e_Help.py
+build/
+dist/
+*.exe
+*.pyc
+salario_app.py
